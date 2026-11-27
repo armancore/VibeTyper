@@ -1,4 +1,4 @@
-# VibeTyper - Professional Typing Assessment Platform
+# VibeTyper
 
 **A modern, interactive typing speed test application built with React.js, Vite, and Tailwind CSS**
 
@@ -27,17 +27,14 @@ Version: 1.0.0 | License: MIT | React: 19.1.0 | Vite: 7.0.4 | Tailwind CSS: 4.1.
 
 ## 🎯 Overview
 
-**VibeTyper** is an enterprise-grade typing assessment solution developed as an academic project at **Texas College of Management and IT** by **Arman Khan**, BIT student. The platform provides accurate performance evaluation through real-time analytics, comprehensive metrics, and professional certification capabilities.
+**VibeTyper** is a typing speed test I built as a project during my BIT degree at **Texas College of Management and IT**. It measures WPM and accuracy as you type, keeps a history of your tests, and can generate a certificate for a result.
 
 ### Key Highlights
 
-- 🎓 **Academic Excellence**: Student-developed platform with institutional backing
-- 🏆 **Professional Standards**: Industry-standard WPM calculations and accuracy measurements
-- 📊 **Real-time Analytics**: Live performance tracking with detailed statistical analysis
-- 🎨 **Modern UI/UX**: Clean, responsive interface with smooth animations
-- 🔒 **Secure Authentication**: Powered by Clerk for user management
-- 🌙 **Dark Mode**: Full dark mode support with system preference detection
-- 📱 **Responsive Design**: Seamless experience across desktop and mobile devices
+- 📊 **Live stats**: WPM and accuracy update while you type
+- 🔒 **Sign-in**: user accounts through Clerk
+- 🌙 **Dark mode**: follows your system setting
+- 📱 **Responsive**: works on desktop and mobile
 
 ---
 
@@ -51,7 +48,7 @@ Version: 1.0.0 | License: MIT | React: 19.1.0 | Vite: 7.0.4 | Tailwind CSS: 4.1.
 - **Customizable Test Duration**: 30 seconds to 5 minutes test options
 - **Performance Classification**: Beginner to Expert level categorization
 - **Test History**: Persistent storage of previous test results
-- **Certificate Generation**: Professional typing certificates with downloadable PNG format
+- **Certificate Generation**: Download a PNG certificate for a test result
 
 ### User Experience
 
@@ -337,7 +334,7 @@ VibeTyper uses **Clerk** for secure user authentication:
 - **User Management**: Profile management and settings
 - **Protected Routes**: Results page requires authentication
 - **Session Management**: Persistent login sessions
-- **Security**: Industry-standard OAuth 2.0
+- **Security**: Sign-in handled by Clerk
 
 ### Implementation
 
@@ -428,11 +425,9 @@ We welcome contributions! Please follow these steps:
 
 ### Project Goals
 
-- Demonstrate full-stack development skills
-- Implement modern React patterns and best practices
-- Create a practical, user-friendly typing assessment tool
-- Showcase UI/UX design capabilities
-- Apply industry-standard development workflows
+- Learn modern React patterns by building something real
+- Make a typing test that is simple and pleasant to use
+- Practise authentication, state management and deployment
 
 ### Contact
 
@@ -499,7 +494,7 @@ For issues, questions, or suggestions:
 
 **Texas College of Management & IT | 2025**
 
-[⬆ Back to Top](#vibetyper---professional-typing-assessment-platform)
+[⬆ Back to Top](#vibetyper)
 
 </div>
 
