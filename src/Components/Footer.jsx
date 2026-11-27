@@ -51,10 +51,10 @@ const Footer = () => {
               <div className="text-sm">
                 <p className="text-slate-600 dark:text-slate-400">Support & Inquiries</p>
                 <a 
-                  href="mailto:arman.techiee@gmail.com" 
+                  href="mailto:contact@armankhan.com.np" 
                   className="text-blue-700 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 font-medium transition-colors"
                 >
-                  arman.techiee@gmail.com
+                  contact@armankhan.com.np
                 </a>
               </div>
             </div>
@@ -70,7 +70,7 @@ const Footer = () => {
                 <Github className="w-4 h-4" />
               </a>
               <a
-                href="mailto:arman.techiee@gmail.com"
+                href="mailto:contact@armankhan.com.np"
                 className="p-2 bg-slate-200 dark:bg-slate-800 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-300 dark:hover:bg-slate-700 transition-all duration-200"
                 aria-label="Email Contact"
               >

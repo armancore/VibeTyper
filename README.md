@@ -431,7 +431,7 @@ We welcome contributions! Please follow these steps:
 
 ### Contact
 
-- **Email**: arman.techiee@gmail.com
+- **Email**: contact@armankhan.com.np
 - **GitHub**: [armancore](https://github.com/armancore)
 
 ---
@@ -483,7 +483,7 @@ For issues, questions, or suggestions:
 
 1. **Check existing issues** on GitHub
 2. **Open a new issue** with detailed information
-3. **Email support**: arman.techiee@gmail.com
+3. **Email support**: contact@armankhan.com.np
 4. **Review documentation** in this README
 
 ---
